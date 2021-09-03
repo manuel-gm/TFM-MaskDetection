@@ -5,3 +5,5 @@ Máster en Nuevas Tecnologías Electrónicas y Fotónicas.
 Universidad Complutense de Madrid. Curso 2020-21
 ### Autor: Manuel Gómez Moreno
 ### Supervisor: Dr. Carlos García Sánchez
+
+[Entrenamiento de modelos de detección](detection-models/README.me)
