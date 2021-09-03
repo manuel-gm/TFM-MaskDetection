@@ -7,7 +7,6 @@ Universidad Complutense de Madrid. Curso 2020-21
 ### Supervisor: Dr. Carlos García Sánchez
 
 ## Índice
-
-*[Detección](detection-models/)  
-*[Inferencia](jetsonNano/)  
-*[BodyPix + Clasificación](classification-models/)  
+* [Detección](detection-models/)  
+* [Inferencia](jetsonNano/)  
+* [BodyPix + Clasificación](classification-models/)  

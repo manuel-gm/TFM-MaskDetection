@@ -5,7 +5,7 @@ Este cuaderno de Jypiter se ha elaborado para entrenar modelos de detección uti
 Los modelos deben ser descargados desde el [model zoo de la API](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md). La evaluación de los modelos se realiza con el script de [Padilla et al.](https://github.com/rafaelpadilla/Object-Detection-Metrics)
 
 ## Estructura de directorios  
-*[Workspace](Workspace/): Carpeta que almacena todo lo relativo al entrenamiento  
+* [Workspace](Workspace/): Carpeta que almacena todo lo relativo al entrenamiento  
 	* [annotations](Workspace/annotations/): archivos record y label_map  
 	* [images](Workspace/images/): datasets de entrenamiento y evaluación  
 	* [pretrained_models](Workspace/pretrained_models/): modelos preentrenados  
