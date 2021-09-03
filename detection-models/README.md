@@ -10,7 +10,7 @@ Los modelos deben ser descargados desde el [model zoo de la API](https://github.
 	* [images](Workspace/images/): datasets de entrenamiento y evaluación  
 	* [pretrained_models](Workspace/pretrained_models/): modelos preentrenados  
 	* [models](Workspace/models): checkpoints de los modelos durante el entrenamiento  
-	* [exported_models](Workspace/exported_models/): modelos entrenados  
+	* [exported_model](Workspace/exported_model/): modelos entrenados  
 * [Test](Test/): Imágenes y vídeos para pruebas de inferencia  
 	* [src](Test/src/): Archivos de origen  
 	* [dst](Test/dst/): Archivos de destino  
